@@ -1,0 +1,12 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+indent_style = space  # kiểu thụt lề là tab hay space
+indent_size = 2   # thụt lề bao nhiêu space
+end_of_line = lf  # ký tự xuống dòng là gì
+charset = utf-8   
+trim_trailing_whitespace = false  # loại bỏ các ký tự thừa ở cuối dòng không?
+insert_final_newline = false  # luôn có duy nhất một dòng trống cuối file không?
